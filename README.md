@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraTaharani
 - 🏆 Graduated software engineer with honors from the study branch of Machon Lev and a Full Stack Web Development Bootcamp.
-- ![competence](images/competence.png)
+- ![008-competence](images/008-competence.png)
 Strong in problem-solving, self-learning, and teamwork, with a passion for creating quality software tailored to the client's needs.
 - 👀 I’m looking for a key role to leverage my technical skills and deliver impactful solutions.
 - Technical skills languages: <br>
