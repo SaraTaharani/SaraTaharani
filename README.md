@@ -10,11 +10,21 @@ React, Next.js, .NET Core <br>
 Database:
 Node.js, Express, MongoDB, Mongoose, SQL<br>
 Tools:
-Git, GitHub, Tailwind
+Git, GitHub, Tailwind<br>
+![001-typescript](images/001-typescript.png)
+![002-c](images/002-c.png)
+![003-c-sharp](images/003-c-sharp.png)
+004-browser.png
+commit images
+2 minutes ago
+005-programing.png
+![004-browser](images/004-browser.png)
+![005-programing](images/005-programing.png)
+
 - 📫 How to reach me :
   taharani1517@gmail.com
   0504140683
-![001-typescript](images/001-typescript.png)
+
 
 <!---
 SaraTaharani/SaraTaharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
