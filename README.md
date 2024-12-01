@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @SaraTaharani graduated software engineer with honors from the study branch of Machon Lev and a Full Stack Web Development Bootcamp.
+- 👋 Hi, I’m @SaraTaharani
+- 🏆 Graduated software engineer with honors from the study branch of Machon Lev and a Full Stack Web Development Bootcamp.
 - Strong in problem-solving, self-learning, and teamwork, with a passion for creating quality software tailored to the client's needs.
 - 👀 I’m looking for a key role to leverage my technical skills and deliver impactful solutions.
-- Technical skills languages <br>
+- <a href="https://www.flaticon.com/free-icons/competence" title="competence icons">Competence icons created by Uniconlabs - Flaticon</a> Technical skills languages: <br>
 Programming Languages:
 JavaScript (ES6), TypeScript, HTML, CSS, C#, C++, Python<br>
 Frameworks:
