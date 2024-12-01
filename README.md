@@ -14,7 +14,7 @@ Git, GitHub, Tailwind
 - 📫 How to reach me :
   taharani1517@gmail.com
   0504140683
-![image](https://github.com/user-attachments/assets/66fdb038-9ce0-4884-9ee7-6d3bdf991043)
+![image](https://github.com/user-attachments/assets/1caff8c1-b226-40ef-af04-5e12c15e5018)
 
 
 <!---
