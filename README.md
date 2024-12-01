@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraTaharani
 - 🏆 Graduated software engineer with honors from the study branch of Machon Lev and a Full Stack Web Development Bootcamp.
-- ![005-competence](images/005-competence.png)
+- ![competence](images/competence.png)
 Strong in problem-solving, self-learning, and teamwork, with a passion for creating quality software tailored to the client's needs.
 - 👀 I’m looking for a key role to leverage my technical skills and deliver impactful solutions.
 - Technical skills languages: <br>
@@ -11,7 +11,7 @@ React, Next.js, .NET Core <br>
 Database:
 Node.js, Express, MongoDB, Mongoose, SQL<br>
 Tools:
-Git, GitHub, Tailwind<br>
+Git, GitHub, Tailwind<br><br>
 ![005-programing](images/005-programing.png)
 ![004-browser](images/004-browser.png)
 ![002-science](images/002-science.png)
