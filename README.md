@@ -11,7 +11,7 @@ Database:
 Node.js, Express, MongoDB, Mongoose, SQL<br>
 Tools:
 Git, GitHub, Tailwind<br>
-![001-typescript](images/001-typescript.png)
+(images/001-typescript.png)
 ![002-c](images/002-c.png)
 ![003-c-sharp](images/003-c-sharp.png)
 ![004-browser](images/004-browser.png)
