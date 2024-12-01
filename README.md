@@ -16,6 +16,12 @@ Git, GitHub, Tailwind<br>
 ![003-c-sharp](images/003-c-sharp.png)
 ![004-browser](images/004-browser.png)
 ![005-programing](images/005-programing.png)
+![001-website](images/001-website.png)
+![002-science](images/002-science.png)
+![003-python](images/003-python.png)
+![004-database-storage](images/004-database-storage.png)
+![005-competence](images/005-competence.png)
+![007-nodejs](images/007-nodejs.png)
 
 - 📫 How to reach me :
   taharani1517@gmail.com
