@@ -14,7 +14,7 @@ Git, GitHub, Tailwind
 - 📫 How to reach me :
   taharani1517@gmail.com
   0504140683
-<img src=""C:\Users\This User\Downloads\mycollection (1)\png\001-typescript.png"">
+![001-typescript](images/001-typescript.png)
 
 <!---
 SaraTaharani/SaraTaharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
