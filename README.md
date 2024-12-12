@@ -25,7 +25,7 @@ Git, GitHub, Tailwind<br><br>
 
 - 📫 How to reach me :
   taharani1517@gmail.com
-  0504140683
+  0504140683 Calls only
 
 
 <!---
