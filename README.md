@@ -22,6 +22,8 @@ Git, GitHub, Tailwind<br><br>
 ![001-website](images/001-website.png)
 ![003-python](images/003-python.png)
 ![004-database-storage](images/004-database-storage.png)
+![angular](images/angular.png)
+
 
 - 📫 How to reach me :
   taharani1517@gmail.com
