@@ -1,35 +1,49 @@
-- 👋 Hi, I’m Sara Taharani
-- 🏆 Graduated with a Diploma in Software Engineering and a Full Stack Web Development Bootcamp.
-- ![008-competence](images/008-competence.png)
-Strong in problem-solving, self-learning, and teamwork, with a passion for creating quality software tailored to the client's needs.
-- 👀 I am seeking a development position to utilize my skills and contribute to impactful solutions
-- Technical skills languages: <br>
-Programming Languages:
-JavaScript (ES6), TypeScript, HTML, CSS, C#, C++, Python <br>
-Frameworks:
-React, Angular, Next.js, .NET Core <br>
-Database:
-Node.js, Express, MongoDB, Mongoose, SQL<br>
-Tools:
-Git, GitHub, Tailwind<br><br>
-![005-programing](images/005-programing.png)
-![004-browser](images/004-browser.png)
-![002-science](images/002-science.png)
-![007-nodejs](images/007-nodejs.png)
-![001-typescript.png](images/001-typescript.png)
-![002-c](images/002-c.png)
-![003-c-sharp](images/003-c-sharp.png)
-![001-website](images/001-website.png)
-![003-python](images/003-python.png)
-![004-database-storage](images/004-database-storage.png)
+# Hi, I'm Sara Peretz 👋  
+### Software Engineer | Full Stack & .NET Developer
 
+A software engineering graduate with honors from the Lev Academic Center and a Full Stack Web Development Bootcamp alumna.  
+I specialize in building end-to-end applications using modern web and desktop technologies, with strong attention to clean architecture, user experience, and high-quality code.
 
-- 📫 How to reach me :
-  sarat0504140683@gmail.com
-  0504140683 Calls only
+---
 
+## 🚀 Tech Stack
 
-<!---
-SaraTaharani/SaraTaharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend:**  
+- React, Next.js  
+- JavaScript, TypeScript  
+- HTML5, CSS3, Tailwind CSS  
+
+**Backend:**  
+- C#, .NET, Web API  
+- Node.js, Express  
+- SQL Server, MongoDB  
+
+**Desktop Development:**  
+- WPF (MVVM Architecture)  
+- C#, XAML  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Student Management System (WPF)  
+A full student management application including multi-page navigation, CRUD operations, data binding, and advanced logic.  
+**Tech:** WPF, C#, SQL Server
+
+### 🔹 Full Stack E-Commerce Platform  
+End-to-end development of a shopping platform with cart features, product management, and API integration.  
+**Tech:** React, Node.js, MongoDB
+
+### 🔹 AI-Powered Web Tool  
+A web tool integrating LLM-based AI capabilities with authentication and API communication.  
+**Tech:** React, Node.js, .NET
+
+---
+
+## 📫 Contact  
+📧 **taharani1517@gmail.com**  
+📱 **050-4140683**  
+
+---
+
+⭐ Feel free to explore my pinned projects to learn more about my work!
