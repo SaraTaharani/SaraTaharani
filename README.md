@@ -3,17 +3,18 @@
 ---
 
 ## ✨ About Me
-🖥️ Passionate about building clean, scalable, and user-focused applications  
-🤝 Strong team player with excellent communication and mentoring skills  
-🎯 Responsible, organized, and logical thinker  
-🔍 Quick learner with analytical problem-solving abilities  
+🖥️ Software Engineering Student passionate about solving complex problems and building efficient, high-quality software systems.
+🧠 Strong foundation in algorithms, data structures, and object-oriented design, with proven ability to quickly learn new technologies and translate theory into practical solutions.
+⚡ Analytical thinker with excellent problem-solving skills, attention to detail, and a commitment to clean, maintainable code.
+🤝 Collaborative team player with strong communication skills and mentoring experience.
 
 ---
 
 ## 🌱 Current Focus
-⚛️ Enhancing skills in React, Next.js, and TypeScript  
-🟢 Improving expertise in .NET Core backend development  
-💻 Developing WPF desktop applications with MVVM architecture  
+🐍 Strengthening Python skills for algorithmic development
+📊 Deepening knowledge in data structures and performance optimization
+💡 Enhancing analytical problem-solving and software design abilities
+
 
 ---
 
