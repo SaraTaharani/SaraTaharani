@@ -4,15 +4,20 @@
 
 ## ✨ About Me
 🖥️ Software Engineering Student passionate about solving complex problems and building efficient, high-quality software systems.
+
 🧠 Strong foundation in algorithms, data structures, and object-oriented design, with proven ability to quickly learn new technologies and translate theory into practical solutions.
+
 ⚡ Analytical thinker with excellent problem-solving skills, attention to detail, and a commitment to clean, maintainable code.
+
 🤝 Collaborative team player with strong communication skills and mentoring experience.
 
 ---
 
 ## 🌱 Current Focus
 🐍 Strengthening Python skills for algorithmic development
+
 📊 Deepening knowledge in data structures and performance optimization
+
 💡 Enhancing analytical problem-solving and software design abilities
 
 
