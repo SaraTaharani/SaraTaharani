@@ -1,31 +1,106 @@
-# Hi, I'm Sara 👋
+# Hi there 👋
 
-## Software Engineer | Full-Stack Developer | AI Developer
+## 👩‍💻 About Me
 
-🎓 Software Engineering graduate with honors  
-🚀 Advanced Full-Stack Bootcamp Graduate  
-🤖 AI Application Development (LLM, RAG, LangChain)
+Software Engineering graduate with a strong passion for building scalable and user-focused applications.
+
+Currently expanding my expertise in **Full-Stack Development with AI Integration**, focusing on building modern web applications and integrating AI capabilities into real-world systems.
+
+I enjoy solving complex problems, learning new technologies, and developing clean, efficient, and scalable software.
 
 ---
 
-## Tech Stack
+## 🎓 Education
 
-### Backend
-C# | .NET Core | Node.js | Express
+**Software Engineering Studies**
+
+Comprehensive training in software development including:
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Software Architecture
+- Full-Stack Development
+- Database Design
+- Application Development with modern technologies
+
+---
+
+## 🚀 Current Studies
+
+**Full-Stack Development with AI Integration**
+
+Key topics include:
+
+- Node.js Asynchronous Programming
+- Building REST APIs with Express
+- MongoDB & Mongoose
+- Authentication with JWT
+- Real-Time Communication with WebSockets
+- React Development (Components, State, Routing, Redux)
+- GraphQL
+- Full-Stack Application Architecture
+- AI Integration with LLM APIs
+- Prompt Engineering for Developers
+- AI Development Tools (GitHub Copilot, Cursor)
+- Building Full-Stack Applications with AI features
+
+---
+
+## 💻 Technologies & Tools
+
+### Languages
+- JavaScript
+- C#
+- C++
+- SQL
 
 ### Frontend
-React | Next.js | JavaScript | TypeScript | HTML | CSS | Tailwind
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind
+
+### Backend
+- Node.js
+- Express
+- .NET
 
 ### Databases
-SQL Server | MongoDB | MySQL
+- MongoDB
+- SQL Server
 
-### AI
-OpenAI API | LangChain | RAG | Prompt Engineering
+### Tools
+- Git
+- GitHub
+- GitHub Copilot
+- AI Development Tools
 
 ---
 
-## What I Focus On
-- Clean Architecture
-- Scalable Web Systems
-- RESTful API Design
-- AI Integration in Web Applications
+## 📂 Projects
+
+Here you can find projects developed during my **Software Engineering studies** and my **Full-Stack & AI training**.
+
+Projects include:
+
+- Full-Stack Web Applications
+- React Applications
+- Backend APIs with Node.js
+- AI-Integrated Applications
+
+---
+
+## 📈 Current Focus
+
+- Building modern **Full-Stack applications**
+- Integrating **AI capabilities into software systems**
+- Writing **clean, scalable, production-ready code**
+
+---
+
+⭐ Feel free to explore my repositories!
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraTaharani&show_icons=true)
