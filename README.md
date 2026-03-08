@@ -100,7 +100,3 @@ Projects include:
 ---
 
 ⭐ Feel free to explore my repositories!
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraTaharani&show_icons=true)
